@@ -1,2 +1,4 @@
 # odin-recipes
-basic recipe website [html basics]
+simple recipe website using html
+to test html knowledge
+THE ODIN PROJECT
